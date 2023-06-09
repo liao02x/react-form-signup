@@ -1,0 +1,9 @@
+form.form input,
+form.form select {
+  padding: 0.25rem 0.5rem;
+}
+
+form.form label.form-field__label {
+  display: flex;
+  flex-direction: column;
+}
