@@ -1,9 +1,7 @@
-# Take home assignment for Placer.ai
+# React-Form-SignUp showcase
 
 ## Overview
-This project is a show case of a sign up form made with React context. With the help of the React context, the Form can take various type of fields dynamicly, and it's with basic styling.
-
-The auth token from the API is stored in the local storage. Another way to store it is to use some global state management library like Redux. I didn't do it just to simplify things.
+This project is a showcase of a form component made with React context and a signup form demonstration. With the help of the React context, the Form can take various types of fields dynamically, and it's with basic styling.
 
 The form is using the html5 required and pattern to validate the input instead of having a schema validator just to keep things simple.
 
